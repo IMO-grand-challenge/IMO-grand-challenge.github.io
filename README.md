@@ -22,7 +22,7 @@ Other proposed rules:
 
 Note: this is only a preliminary proposal for the rules. To get involved in the discussion, please join our [Zulip channel](https://leanprover.zulipchat.com/#narrow/stream/208328-IMO-grand-challenge).
 
-### People
+### Committee
 
 - [Daniel Selsam](https://dselsam.github.io/) (Microsoft Research)
 - [Leonardo de Moura](https://leodemoura.github.io/) (Microsoft Research)
