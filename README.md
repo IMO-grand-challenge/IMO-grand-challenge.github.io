@@ -14,7 +14,7 @@ Other proposed rules:
 
 *Credit*. Each proof certificate that the AI produces must be checkable by the Lean kernel in 10 minutes (which is approximately the amount of time it takes a human judge to judge a human's solution). Unlike human competitors, the AI has no opportunity for partial credit.
 
-*Resources*. The AI has only as much time as a human competitor (4.5 hours for each set of 3 problems), but there are no other limits on the computational resources it may use.
+*Resources*. The AI has only as much time as a human competitor (4.5 hours for each set of 3 problems), but there are no other limits on the computational resources it may use during that time.
 
 *Reproducibility*. The AI must be open-source, released publicly before the first day of the IMO, and be easily reproduceable. The AI cannot query the Internet.
 
