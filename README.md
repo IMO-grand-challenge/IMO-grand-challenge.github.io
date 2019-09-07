@@ -5,7 +5,9 @@ permalink: /
 
 The [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) is perhaps the most celebrated mental competition in the world and as such is among the ultimate grand challenges for Artificial Intelligence (AI).
 
-To eliminate the need for human judges, we propose the formal-to-formal (F2F) variant of the IMO: the AI receives a *formal* representation of the problem (in the [Lean Theorem Prover](https://leanprover.github.io/)), and is required to emit a *formal* (i.e. machine-checkable) proof.
+**The challenge: build an AI that can win a Gold medal in the competition.**
+
+To remove ambiguity about the scoring rules, we propose the formal-to-formal (F2F) variant of the IMO: the AI receives a *formal* representation of the problem (in the [Lean Theorem Prover](https://leanprover.github.io/)), and is required to emit a *formal* (i.e. machine-checkable) proof.
 We are working on a proposal for [encoding IMO problems in Lean](https://github.com/IMO-grand-challenge/formal-encoding) and will seek broad consensus on the protocol.
 
 Other proposed rules:
@@ -17,6 +19,8 @@ Other proposed rules:
 *Reproducibility*. The AI must be open-source, released publicly before the first day of the IMO, and be easily reproduceable. The AI cannot query the Internet.
 
 *Challenge*. The grand challenge is to develop an AI that earns enough points in the F2F version of the IMO (described above) that, if it were a human competitor, it would have earned a Gold medal.
+
+Note: this is only a preliminary proposal for the rules. We are actively discussing them [here](https://leanprover.zulipchat.com/#narrow/stream/208328-IMO-grand-challenge).
 
 ### People
 
