@@ -2,10 +2,11 @@
 title: IMO Grand Challenge
 permalink: /
 ---
+
 The [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) is perhaps the most celebrated mental competition in the world and as such is among the ultimate grand challenges for Artificial Intelligence (AI).
 
 To eliminate the need for human judges, we propose the formal-to-formal (F2F) variant of the IMO: the AI receives a *formal* representation of the problem (in the [Lean Theorem Prover](https://leanprover.github.io/)), and is required to emit a *formal* (i.e. machine-checkable) proof.
-We are working on a proposal for [encoding IMO problems in Lean](https://github.com/imo-grand-challenge/formal-encoding) and will seek broad consensus on the protocol.
+We are working on a proposal for [encoding IMO problems in Lean](https://github.com/IMO-grand-challenge/formal-encoding) and will seek broad consensus on the protocol.
 
 Other proposed rules:
 
