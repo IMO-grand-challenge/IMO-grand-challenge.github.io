@@ -20,7 +20,7 @@ Other proposed rules:
 
 *Challenge*. The grand challenge is to develop an AI that earns enough points in the F2F version of the IMO (described above) that, if it were a human competitor, it would have earned a Gold medal.
 
-Note: this is only a preliminary proposal for the rules. We are actively discussing them [here](https://leanprover.zulipchat.com/#narrow/stream/208328-IMO-grand-challenge).
+Note: this is only a preliminary proposal for the rules. To get involved in the discussion, please join our [Zulip channel](https://leanprover.zulipchat.com/#narrow/stream/208328-IMO-grand-challenge).
 
 ### People
 
