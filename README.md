@@ -28,6 +28,4 @@ Note: this is only a preliminary proposal for the rules. To get involved in the 
 - [Leonardo de Moura](https://leodemoura.github.io/) (Microsoft Research)
 - [Kevin Buzzard](http://wwwf.imperial.ac.uk/~buzzard/) (Imperial College London)
 - [Reid Barton](https://en.wikipedia.org/wiki/Reid_W._Barton) (University of Pittsburgh)
-- [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) (Microsoft Research)
 - [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
-- [Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/) (Microsoft Research)
