@@ -30,3 +30,4 @@ Note: this is only a preliminary proposal for the rules. To get involved in the 
 - [Reid Barton](https://en.wikipedia.org/wiki/Reid_W._Barton) (University of Pittsburgh)
 - [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 - [Sarah Loos](https://sarahmloos.wordpress.com/) (Google AI)
+- [Freek Wiedijk](https://www.cs.ru.nl/~freek/index.html) (University of Nijmegen)
