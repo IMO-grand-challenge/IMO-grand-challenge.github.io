@@ -8,7 +8,7 @@ The [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) i
 **The challenge: build an AI that can win a gold medal in the competition.**
 
 To remove ambiguity about the scoring rules, we propose the formal-to-formal (F2F) variant of the IMO: the AI receives a *formal* representation of the problem (in the [Lean Theorem Prover](https://leanprover.github.io/)), and is required to emit a *formal* (i.e. machine-checkable) proof.
-We are working on a proposal for [encoding IMO problems in Lean](https://github.com/IMO-grand-challenge/formal-encoding) and will seek broad consensus on the protocol.
+We are working on a proposal for encoding IMO problems in Lean and will seek broad consensus on the protocol.
 
 Other proposed rules:
 
