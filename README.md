@@ -24,7 +24,7 @@ Note: this is only a preliminary proposal for the rules. To get involved in the 
 
 ### Committee
 
-- [Daniel Selsam](https://dselsam.github.io/) (Microsoft Research)
+- [Daniel Selsam](https://dselsam.github.io/) (OpenAI)
 - [Leonardo de Moura](https://leodemoura.github.io/) (Microsoft Research)
 - [Kevin Buzzard](http://wwwf.imperial.ac.uk/~buzzard/) (Imperial College London)
 - [Reid Barton](https://en.wikipedia.org/wiki/Reid_W._Barton) (University of Pittsburgh)
